@@ -1,0 +1,21 @@
+{
+  "name": "crescer-exercicio-discord",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.9.5"
+  },
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.1",
+    "jest": "^25.4.0",
+    "ytdl-core": "^4.10.1"
+  }
+}
