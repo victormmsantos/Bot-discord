@@ -8,4 +8,4 @@ Porém quis me aventurar um pouco pelas funcionalidades e desenvolver um bot que
 - Retirar membros da call, com um jogo de números aleatórios `!kick @UsuarioParaParticipar1 @UsuarioParaParticipar2`
 - Brincadeira para o bot soltar um som de rojão na chamada `!rojao`
 
-O bot não está com o deploy valido atualmente, pois quando foi feito o deploy foi atraves da plataforma "Heroku", e o plano gratuito havia expirado
+O bot não está com o deploy valido atualmente, pois quando foi feito o deploy foi atraves da plataforma "Heroku", e o plano gratuito expirou
